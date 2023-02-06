@@ -1,0 +1,13 @@
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+} /* tirando a margem e outras coisas */
+
+ul {
+  list-style: none;
+} /* tirando o ponto da lista */
+
+a {
+   text-decoration: none; 
+} /* tirando os links azuis dos textos com link */
